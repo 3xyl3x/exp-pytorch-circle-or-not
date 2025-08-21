@@ -27,5 +27,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Local data (if you generate/download)
+# Local data 
 data/
