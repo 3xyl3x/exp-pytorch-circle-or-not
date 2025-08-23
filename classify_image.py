@@ -129,7 +129,6 @@ def on_release(event):
 canvas.bind("<ButtonPress-1>", on_press)
 canvas.bind("<B1-Motion>", on_move)
 canvas.bind("<ButtonRelease-1>", on_release)
-root.bind("<Key>", on_key)
 
 clear_canvas()
 root.mainloop()
